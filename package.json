@@ -1,0 +1,15 @@
+{
+  "name": "prima",
+  "version": "0.1.0",
+  "description": "Prima — Codex companion pet",
+  "main": "index.js",
+  "scripts": {
+    "pet:validate": "node tools/pets/validate-pet-package.mjs"
+  },
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "author": "4444J99",
+  "license": "MIT"
+}
