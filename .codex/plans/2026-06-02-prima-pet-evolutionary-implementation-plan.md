@@ -456,9 +456,9 @@ Completed:
 - Added `tools/pets/pet-manifest.schema.json`.
 - Added `tools/pets/validate-pet-package.mjs`.
 - Added root `pnpm pet:validate` script.
-- Upgraded the installed Prima package manifest at `/Users/4jp/.codex/pets/prima/pet.json` while preserving legacy loader fields.
+- Upgraded the installed Prima package manifest at `pets/prima/pet.json` while preserving legacy loader fields.
 - Added live package artifacts: `preview.png`, `validation.json`, `CHANGELOG.md`, and `checksums.txt`.
-- Rebuilt `/Users/4jp/.codex/pets/prima.zip`.
+- Rebuilt `pets/prima.zip`.
 - Recorded validation evidence at `docs/design/expansive-inquiry-prima-pet-systems/implementation/level-1-validation-20260602-112355.json`.
 
 Deferred:

@@ -29,7 +29,7 @@
     "validation": {
       "path": "validation.json",
       "mime_type": "application/json",
-      "sha256": "6f586692ebf7708ea653adfc82c373e1b7c800fd0e85e02f464288438097fe65"
+      "sha256": "ea4dcb73008d3b6c9e21b88fee32962010b4a3fa82b608dedd0a5dbb238b6723"
     }
   },
   "animations": [
@@ -130,7 +130,7 @@
   },
   "provenance": {
     "created_at": "2026-06-02T15:23:55Z",
-    "source_run": "/Users/4jp/.local/share/codex/pet-runs/prima-phase",
+    "source_run": "~/.local/share/codex/pet-runs/prima-phase",
     "method": "hatch-pet",
     "notes": "Lean always-phasing quantum Prima; direct generated running-left repair; post-extraction chroma-residue cleanup for internal transparent voids."
   },
@@ -138,7 +138,7 @@
     "sha256": {
       "spritesheet.webp": "f1be1f52bd15de022ef995c1295220a67548520ddc51174006d54c1c6b463cee",
       "preview.png": "8f53e4fb924d0fc1a1297d38063c0390e08becaf363889ac12ff887324e851d2",
-      "validation.json": "6f586692ebf7708ea653adfc82c373e1b7c800fd0e85e02f464288438097fe65"
+      "validation.json": "ea4dcb73008d3b6c9e21b88fee32962010b4a3fa82b608dedd0a5dbb238b6723"
     }
   },
   "preview": {

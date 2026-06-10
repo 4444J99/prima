@@ -30,18 +30,18 @@ validation_report: "level-1-validation-20260602-112355.json"
   - preview artifact
   - explicit empty capabilities list
 - Added live package artifacts:
-  - `/Users/4jp/.codex/pets/prima/preview.png`
-  - `/Users/4jp/.codex/pets/prima/validation.json`
-  - `/Users/4jp/.codex/pets/prima/CHANGELOG.md`
-  - `/Users/4jp/.codex/pets/prima/checksums.txt`
-- Rebuilt `/Users/4jp/.codex/pets/prima.zip`.
+  - `pets/prima/preview.png`
+  - `pets/prima/validation.json`
+  - `pets/prima/CHANGELOG.md`
+  - `pets/prima/checksums.txt`
+- Rebuilt `pets/prima.zip`.
 
 ## Validation
 
 Command:
 
 ```sh
-node tools/pets/validate-pet-package.mjs /Users/4jp/.codex/pets/prima --output docs/design/expansive-inquiry-prima-pet-systems/implementation/level-1-validation-20260602-112355.json
+node tools/pets/validate-pet-package.mjs pets/prima --output docs/design/expansive-inquiry-prima-pet-systems/implementation/level-1-validation-20260602-112355.json
 ```
 
 Result:
@@ -49,10 +49,10 @@ Result:
 - `ok: true`
 - no errors
 - no warnings
-- manifest hash: `9ef6d28f8fe2f1e7b043284c039a2db9de45fc9329ccc70a7db31dc1dc075439`
+- manifest hash: `a9f99133caf72583eda1254e7b60d7ed370701f788841376f5425e86f74e8930`
 - spritesheet hash: `f1be1f52bd15de022ef995c1295220a67548520ddc51174006d54c1c6b463cee`
 - preview hash: `8f53e4fb924d0fc1a1297d38063c0390e08becaf363889ac12ff887324e851d2`
-- validation artifact hash: `6f586692ebf7708ea653adfc82c373e1b7c800fd0e85e02f464288438097fe65`
+- validation artifact hash: `ea4dcb73008d3b6c9e21b88fee32962010b4a3fa82b608dedd0a5dbb238b6723`
 
 ## Deliberate Limits
 
