@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "package_dir": "/Users/4jp/.codex/pets/prima",
+  "package_dir": "pets/prima",
   "manifest": {
     "path": "pet.json",
-    "sha256": "9ef6d28f8fe2f1e7b043284c039a2db9de45fc9329ccc70a7db31dc1dc075439",
+    "sha256": "a9f99133caf72583eda1254e7b60d7ed370701f788841376f5425e86f74e8930",
     "schema_version": "1.0.0",
     "pet_id": "prima",
     "version": "0.1.0"
@@ -12,7 +12,7 @@
     {
       "label": "manifest",
       "path": "pet.json",
-      "sha256": "9ef6d28f8fe2f1e7b043284c039a2db9de45fc9329ccc70a7db31dc1dc075439"
+      "sha256": "a9f99133caf72583eda1254e7b60d7ed370701f788841376f5425e86f74e8930"
     },
     {
       "label": "spritesheet",
@@ -27,7 +27,7 @@
     {
       "label": "validation",
       "path": "validation.json",
-      "sha256": "6f586692ebf7708ea653adfc82c373e1b7c800fd0e85e02f464288438097fe65"
+      "sha256": "ea4dcb73008d3b6c9e21b88fee32962010b4a3fa82b608dedd0a5dbb238b6723"
     }
   ],
   "errors": [],
